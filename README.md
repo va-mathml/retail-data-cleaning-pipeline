@@ -73,6 +73,24 @@ Audit performed through manual inspection and cross-validation of types, ranges,
 
 ---
 
+## Visual demo
+
+The full interactive report is available at [`reports/eda_ventas_sucias_anomalias.html`](reports/eda_ventas_sucias_anomalias.html). Three key views:
+
+**1. Analytical Memo & Data Card** — Project context, business question, and dataset overview.
+
+![Analytical Memo](assets/screenshots/01_analytical_memo.png)
+
+**2. Anomaly Inspector** — Interactive table with row-level anomaly detection by type and severity.
+
+![Anomaly Inspector](assets/screenshots/02_anomaly_inspector.png)
+
+**3. EDA Dashboard** — Executive view with KPIs, revenue trends, top performers, and outlier detection (box plot of satisfaction). All charts re-compute after the cleaning pipeline runs.
+
+![EDA Dashboard](assets/screenshots/03_eda_dashboard.png)
+
+---
+
 ## Cleaning pipeline (Python / pandas)
 
 ### Dates
@@ -264,6 +282,11 @@ normalized_satisfaction = mean_satisfaction / 5
 
 ```
 retail-data-cleaning-pipeline/
+├── assets/
+│   └── screenshots/
+│       ├── 01_analytical_memo.png
+│       ├── 02_anomaly_inspector.png
+│       └── 03_eda_dashboard.png
 ├── data/
 │   ├── raw/
 │   │   └── ventas_sucias.csv          # Original dataset with injected anomalies
