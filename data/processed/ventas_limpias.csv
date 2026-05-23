@@ -1,0 +1,47 @@
+﻿id,fecha,vendedor,ciudad,categoria,producto,cantidad,precio_unitario,ingreso_total,canal_venta,satisfaccion_cliente,mes
+1,2024-01-05,Ana Torres,Bogotá,Electrónica,Laptop,2.0,2500000.0,5000000.0,Online,4.5,2024-01
+2,2024-01-07,Carlos Ríos,Medellín,Ropa,Camiseta,10.0,45000.0,450000.0,Tienda,3.8,2024-01
+3,2024-01-10,María López,Cali,Alimentos,Café Premium,5.0,32000.0,160000.0,Online,5.0,2024-01
+4,2024-01-12,Pedro Gómez,Barranquilla,Electrónica,Audífonos,3.0,180000.0,540000.0,Tienda,4.2,2024-01
+5,2024-01-15,Ana Torres,Bogotá,Hogar,Licuadora,1.0,320000.0,320000.0,Online,4.7,2024-01
+6,2024-01-18,Carlos Ríos,Medellín,Electrónica,Tablet,2.0,1200000.0,2400000.0,Tienda,4.0,2024-01
+7,2024-01-20,Laura Díaz,Cali,Ropa,Zapatos,4.0,210000.0,840000.0,Online,3.5,2024-01
+8,2024-01-22,Pedro Gómez,Bogotá,Alimentos,Granola,8.0,28000.0,224000.0,Tienda,4.1,2024-01
+9,2024-01-25,María López,Barranquilla,Hogar,Ventilador,2.0,95000.0,190000.0,Online,3.9,2024-01
+10,2024-02-02,Laura Díaz,Medellín,Electrónica,Celular,1.0,1800000.0,1800000.0,Tienda,4.8,2024-02
+11,2024-02-05,Ana Torres,Bogotá,Electrónica,Laptop,3.0,2500000.0,7500000.0,Online,4.3,2024-02
+12,2024-02-10,Carlos Ríos,Medellín,Ropa,Jeans,6.0,120000.0,720000.0,Tienda,4.0,2024-02
+13,2024-02-15,Pedro Gómez,Cali,Alimentos,Café Premium,4.0,32000.0,128000.0,Online,3.7,2024-02
+14,2024-02-18,Laura Díaz,Bogotá,Hogar,Licuadora,2.0,320000.0,640000.0,Tienda,4.5,2024-02
+15,2024-02-20,María López,Bogotá,Electrónica,Audífonos,5.0,180000.0,900000.0,Online,4.2,2024-02
+16,2024-02-22,Ana Torres,Medellín,Ropa,Camiseta,12.0,45000.0,540000.0,Tienda,3.6,2024-02
+17,2024-02-25,Carlos Ríos,Cali,Electrónica,Tablet,1.0,1200000.0,1200000.0,Online,4.9,2024-02
+18,2024-03-01,Pedro Gómez,Sin Ciudad,Alimentos,Granola,3.0,28000.0,84000.0,Tienda,4.0,2024-03
+19,2024-03-03,,Barranquilla,Electrónica,Laptop,1.0,2500000.0,2500000.0,Online,4.6,2024-03
+20,2024-03-05,Laura Díaz,Bogotá,Sin Categoría,Licuadora,2.0,320000.0,640000.0,Tienda,3.8,2024-03
+22,2024-03-10,Ana Torres,Cali,Ropa,Zapatos,3.0,210000.0,630000.0,Tienda,,2024-03
+23,2024-03-12,Carlos Ríos,Bogotá,Electrónica,Celular,2.0,1800000.0,3600000.0,Online,4.5,2024-03
+24,2024-03-15,Pedro Gómez,Barranquilla,Alimentos,Café Premium,6.0,32000.0,192000.0,Tienda,4.3,2024-03
+25,2024-03-18,Laura Díaz,Medellín,Ropa,Jeans,4.0,120000.0,480000.0,Online,3.9,2024-03
+26,2024-03-20,Ana Torres,Bogotá,Electrónica,Laptop,2.0,2500000.0,5000000.0,Online,4.5,2024-03
+28,2024-03-22,María López,Cali,Alimentos,Café Premium,5.0,32000.0,160000.0,Online,5.0,2024-03
+30,2024-04-01,Carlos Ríos,Bogotá,Hogar,Licuadora,3.0,320000.0,960000.0,Online,4.2,2024-04
+31,2024-04-03,Pedro Gómez,Medellín,Electrónica,Audífonos,7.0,180000.0,1260000.0,Tienda,3.7,2024-04
+32,2024-04-05,Laura Díaz,Cali,Ropa,Camiseta,15.0,45000.0,675000.0,Online,4.0,2024-04
+33,2024-04-08,Ana Torres,Barranquilla,Alimentos,Granola,4.0,28000.0,112000.0,Tienda,4.4,2024-04
+34,2024-04-10,María López,Bogotá,Electrónica,Celular,2.0,1800000.0,3600000.0,Online,5.0,2024-04
+35,2024-04-12,Carlos Ríos,Medellín,Hogar,Ventilador,3.0,95000.0,285000.0,Tienda,1.0,2024-04
+36,2024-04-15,Pedro Gómez,Cali,Ropa,Zapatos,2.0,210000.0,420000.0,Online,1.0,2024-04
+37,2024-04-18,Laura Díaz,Bogotá,Electrónica,Tablet,1.0,1200000.0,1200000.0,Online,4.7,2024-04
+38,2024-04-20,Ana Torres,Medellín,Alimentos,Café Premium,10.0,32000.0,320000.0,Tienda,4.9,2024-04
+39,2024-04-22,María López,Barranquilla,Ropa,Jeans,3.0,120000.0,360000.0,Online,4.1,2024-04
+40,2024-05-01,Carlos Ríos,Bogotá,Electrónica,Laptop,1.0,2500000.0,2500000.0,Tienda,4.6,2024-05
+41,2024-05-05,Pedro Gómez,Cali,Hogar,Licuadora,2.0,320000.0,640000.0,Online,3.8,2024-05
+42,2024-05-08,Laura Díaz,Barranquilla,Electrónica,Audífonos,4.0,180000.0,720000.0,Tienda,4.3,2024-05
+43,2024-05-12,Ana Torres,Medellín,Alimentos,Granola,6.0,28000.0,168000.0,Online,4.5,2024-05
+44,2024-05-15,María López,Bogotá,Ropa,Camiseta,8.0,45000.0,360000.0,Tienda,4.0,2024-05
+45,2024-05-18,Carlos Ríos,Cali,Electrónica,Celular,2.0,1800000.0,3600000.0,Online,4.8,2024-05
+46,2024-05-20,Pedro Gómez,Medellín,Hogar,Ventilador,5.0,95000.0,475000.0,Tienda,3.9,2024-05
+47,2024-05-22,Laura Díaz,Bogotá,Ropa,Zapatos,3.0,210000.0,630000.0,Online,4.2,2024-05
+48,2024-06-01,Ana Torres,Barranquilla,Electrónica,Tablet,2.0,1200000.0,2400000.0,Tienda,4.6,2024-06
+49,2024-06-05,María López,Cali,Alimentos,Café Premium,7.0,32000.0,224000.0,Online,4.7,2024-06
